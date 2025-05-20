@@ -3,7 +3,7 @@
 View report live : https://app.powerbi.com/groups/me/reports/caf66e34-60e3-46eb-ac9b-651582ed876e?pbi_source=desktop
 
 
-[Sports gear sales.pdf](https://github.com/user-attachments/files/20140636/Sports.gear.sales.pdf)
+[Sports gear sales.pdf](https://github.com/user-attachments/files/20320912/Sports.gear.sales.pdf)
 
 
 ![image](https://github.com/user-attachments/assets/1d5547d1-5a8d-45b4-899a-dcf0e427478e)
